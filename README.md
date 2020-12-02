@@ -1,4 +1,4 @@
-# Google Authenticator OpenSource
+U# Google Authenticator OpenSource
 
 The Google Authenticator project includes implementations of one-time passcode
 generators for several mobile platforms. One-time passcodes are generated using
